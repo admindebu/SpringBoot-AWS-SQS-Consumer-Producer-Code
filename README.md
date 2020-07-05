@@ -9,7 +9,7 @@ This is Spring rest API for Post and Receive message from AWS Simple Queue Servi
   5. AWS Account
 # Detail explanation & Youtube Video Link :
 
-# Give a Start rating if this is useful
+# Give a Star rating if this is useful
 
 # use Appilcation
 1. Download the zip file and extract it
